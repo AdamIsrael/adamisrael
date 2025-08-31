@@ -11,3 +11,9 @@ Formerly:
 - Senior Software Engineer at [Vapor](https://www.vapor.io/)
 - Technical Lead at [Canonical](https://www.canonical.com/)
 - Staff Writer, [Ars Technica](https://arstechnica.com/)
+
+Contact:
+- Email: adam@adamisrael.com
+- Twitter: [@adamisrael](https://twitter.com/adamisrael)
+- LinkedIn: [Adam Israel](https://www.linkedin.com/in/adamisrael/)
+- Mastodon: [@adam](https://linuxlab.sh/@adam)
